@@ -139,4 +139,4 @@ Firebase ToDo is a iOS app created during the Peter Friese's intermediate iOS tu
 </p>
 
 
-### Thanks for reading
+## Thanks for reading!
