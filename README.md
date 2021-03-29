@@ -27,9 +27,13 @@ Empanapp is a recipe app that shows how to make "Empanadas" a famous dish in Arg
 
 
 ## Tea Time
-GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+Helps the user to calculate the time to brew the perfect cup of tea.
+
+* Built with LocalNotifications to let the user know when the tea is ready.
+* The app use UserDefaults in order to save data and emulate a countdown timer.
+* Countdown Timer in background.
+* It is available in Spanish, English and German.
 
 <br>
 <p align="center">
