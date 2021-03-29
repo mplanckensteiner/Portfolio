@@ -51,7 +51,7 @@ Tea Time helps the user to calculate the time to brew the perfect cup of tea.
 # Projects on GitHub
 
 ## Amiibo DB
-Amiibo DB .
+Amiibo DB is a iOS App with data from [Amiibo Api](https://www.amiiboapi.com) that contains the current list of Amiibos available at the moment.
 
 * Programmatic UI (No Storyboards).
 * Custom UIViews, custom TableViews and custom CollectionViews for user interface.
@@ -150,7 +150,7 @@ WeatherColor is a iOS App with data from [Open Weather Map](https://openweatherm
 * Alamofire 5 Response Decodable.
 * CLLocationManager authorization status.
 * Cocoapods.
-* API key from [Open Weather Map](https://openweathermap.org)
+* API key from [Open Weather Map](https://openweathermap.org).
 * REST API.
 
 
