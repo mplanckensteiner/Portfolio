@@ -54,7 +54,7 @@ Tea Time helps the user to calculate the time to brew the perfect cup of tea.
 Dota Heroes list made with SwiftUI 2.0 (MVVM), for request REST API is implemented with URLSession.
 
 * SwiftUI 2.0.
-* MVVM Design pattern.
+* MVVM architecture.
 * Custom UISearchBar.
 * REST API.
 * Custom Filter
@@ -114,9 +114,13 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 
 ## Firebase ToDo
-GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+Firebase ToDo is a iOS app created during the Peter Friese's intermediate iOS tutorial ['Sign in with Apple using SwiftUI and Firebase'](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/). 
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+* SwiftUI.
+* MVVM architecture.
+* Firebase.
+* Sign in with Apple.
+* Firebase AuthenticationServices
 
 <br>
 <p align="center">
