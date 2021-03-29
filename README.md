@@ -28,7 +28,7 @@ Empanapp is a recipe app that shows how to make "Empanadas" a famous dish in Arg
 
 ## Tea Time
 
-Helps the user to calculate the time to brew the perfect cup of tea.
+Tea Time helps the user to calculate the time to brew the perfect cup of tea.
 
 * Built with LocalNotifications to let the user know when the tea is ready.
 * The app use UserDefaults in order to save data and emulate a countdown timer.
