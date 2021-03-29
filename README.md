@@ -69,7 +69,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+<p align="left"> <a href="https://github.com/mplanckensteiner/GHFollowers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
 ### Mobie
@@ -85,7 +85,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+<p align="left"> <a href="https://github.com/mplanckensteiner/MobieSwiftUI"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
 ### Firebase ToDo
@@ -101,5 +101,5 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+<p align="left"> <a href="https://github.com/mplanckensteiner/firebaseToDo"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
