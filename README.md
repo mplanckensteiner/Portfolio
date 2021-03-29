@@ -1,12 +1,12 @@
 ### Links
 
-<a href="mailto:mplanckensteiner@hotmail.com"><img src="https://img.shields.io/badge/Email-Miguel-red.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/miguelplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-miguelPlanckensteiner-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/instagram-mplanckensteiner-ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:mplanckensteiner@hotmail.com"><img src="https://img.shields.io/badge/Email-Miguel-red.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/miguelplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Miguel%20Planckensteiner-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/instagram-mplanckensteiner-ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Hello!
 In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
 
 
-# Side Projects :)
+# Side Projects
 
 ## DotaHeroes
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
