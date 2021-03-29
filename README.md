@@ -4,6 +4,20 @@
 In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
 
 
+## DotaHeroes
+GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+
+Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112799113-354d6900-906e-11eb-893b-c9acc04dff9b.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112799123-39798680-906e-11eb-9091-c70a1fbc169a.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112799127-3aaab380-906e-11eb-8a4e-d767198024e6.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+
 ## GHFollowers
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
