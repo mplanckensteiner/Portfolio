@@ -3,8 +3,7 @@
 # Welcome to my Portfolio! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
 
-# Personal Projects on the App Store
-
+# Projects on the App Store
 ## Empanapp
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
@@ -38,9 +37,9 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <p align="left"> <a href="https://apps.apple.com/app/tea-time-enjoy/id1502234466" download><img src="https://user-images.githubusercontent.com/49713385/112809363-3a181a00-907a-11eb-8370-0b6ea7b3f9a2.png" width="110" ></a>
 </p>
 
-# Personal Projects on GitHub
+# Projects on GitHub
 
-### DotaHeroes
+## DotaHeroes
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -56,7 +55,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
-### GHFollowers
+## GHFollowers
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -72,7 +71,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <p align="left"> <a href="https://github.com/mplanckensteiner/GHFollowers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
-### Mobie
+## Mobie
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -88,7 +87,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <p align="left"> <a href="https://github.com/mplanckensteiner/MobieSwiftUI"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
-### Firebase ToDo
+## Firebase ToDo
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -103,3 +102,6 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 
 <p align="left"> <a href="https://github.com/mplanckensteiner/firebaseToDo"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
+
+
+#### Thanks for Reading
