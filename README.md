@@ -75,7 +75,16 @@ Dota Heroes list made with SwiftUI 2.0 (MVVM), for request REST API is implement
 ## GHFollowers
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+* Programmatic UI (No Storyboards).
+* MVC architecture.
+* No libraries used.
+* Support for light & dark mode. 
+* Custom UIAlerts.
+* UserDefaults for saving favorite users.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* REST API.
 
 <br>
 <p align="center">
