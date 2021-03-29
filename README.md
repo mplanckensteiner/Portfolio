@@ -3,10 +3,24 @@
 # Hello!
 In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
 
+## Available on the App Store
 
-# Side Projects
+### Empanapp
+GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
-## DotaHeroes
+Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112805902-7d708980-9076-11eb-934e-c398d6330012.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112805922-819ca700-9076-11eb-8e91-5bf82f2d9ad6.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112805925-83666a80-9076-11eb-90e8-c0558ed80abe.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+## Available on GitHub
+
+### DotaHeroes
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -20,7 +34,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <br>
 
 
-## GHFollowers
+### GHFollowers
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -33,7 +47,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
-## Mobie
+### Mobie
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -47,7 +61,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 <br>
 
 
-## Firebase ToDo
+### Firebase ToDo
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
