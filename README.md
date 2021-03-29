@@ -142,6 +142,31 @@ Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/docu
 <p align="left"> <a href="https://github.com/mplanckensteiner/MobieSwiftUI"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
+## Investix
+Investix is a iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+
+* Programmatic UI (No Storyboards).
+* MVC architecture.
+* No libraries used.
+* Support for light & dark mode. 
+* Custom UIAlerts.
+* UserDefaults for saving favorite users.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* REST API.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112829446-6f7c3200-9091-11eb-8b10-c57ff4d1a974.png" width="250"  title="GHFollowers1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112829450-71de8c00-9091-11eb-85aa-86a446c7f8c2.png" width="250"  title="GHFollowers2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112829457-72772280-9091-11eb-982b-87c76fa9a56b.png" width="250"  title="GHFollowers3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+<p align="left"> <a href="https://github.com/mplanckensteiner/Investix"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
+
 ## Firebase ToDo
 Firebase ToDo is a iOS app created during the Peter Friese's intermediate iOS tutorial ['Sign in with Apple using SwiftUI and Firebase'](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/). 
 
