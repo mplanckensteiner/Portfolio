@@ -53,6 +53,8 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
+<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
 
 ### GHFollowers
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
@@ -67,6 +69,9 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
+<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
+
 ### Mobie
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
@@ -80,6 +85,8 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 <br>
 
+<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
 
 ### Firebase ToDo
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
@@ -93,3 +100,6 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
   <img src="https://user-images.githubusercontent.com/49713385/112802541-95dea500-9072-11eb-9e38-a52672a867e4.png" width="250"  title="FirebaseToDo3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
+<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
