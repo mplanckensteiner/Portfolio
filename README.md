@@ -142,6 +142,29 @@ Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/docu
 <p align="left"> <a href="https://github.com/mplanckensteiner/MobieSwiftUI"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
+## WeatherColor
+
+WeatherColor with data from ['The Movie Data Base'](https://www.themoviedb.org/documentation/api) using REST API built with Swift UI. 
+
+* MVC architecture.
+* Alamofire 5 Response Decodable.
+* CLLocationManager authorization status.
+* Cocoapods.
+* API key from [Open Weather Map](https://openweathermap.org)
+* REST API.
+
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112831752-b15aa780-9094-11eb-861d-64fb256f9ca3.png" width="250"  title="Mobie1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112831743-ae5fb700-9094-11eb-8fbd-65c4214129d3.png" width="250"  title="Mobie2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112831751-b0297a80-9094-11eb-82ff-16f6013e72de.png" width="250"  title="Mobie3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+<p align="left"> <a href="https://github.com/mplanckensteiner/WeatherColor"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+</p>
+
 ## Investix
 Investix is a iOS app created during the Kelvin Fok's intermediate iOS tutorial ['iOS 14 & Swift 5: Financial App with Stock APIs'](https://www.udemy.com/course/ios-14-swift-5-financial-app-with-stock-apis-unit-tests/). 
 
