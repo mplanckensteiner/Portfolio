@@ -63,18 +63,15 @@ Amiibo DB .
 * Custom UIAlerts.
 * REST API.
 
-
-
-
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49713385/112799113-354d6900-906e-11eb-893b-c9acc04dff9b.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49713385/112799123-39798680-906e-11eb-9091-c70a1fbc169a.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49713385/112799127-3aaab380-906e-11eb-8a4e-d767198024e6.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112823553-ba924700-9089-11eb-9959-49ec22fc256c.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112823565-be25ce00-9089-11eb-9866-777c57d18b19.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112823567-bebe6480-9089-11eb-9eec-754f837f5dd7.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/mplanckensteiner/DotaHeroes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
+<p align="left"> <a href="https://github.com/mplanckensteiner/amiiboDB"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="110" ></a>
 </p>
 
 ## DotaHeroes
