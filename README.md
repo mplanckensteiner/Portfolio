@@ -65,9 +65,9 @@ Amiibo DB .
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49713385/112823553-ba924700-9089-11eb-9959-49ec22fc256c.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49713385/112823565-be25ce00-9089-11eb-9866-777c57d18b19.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49713385/112823567-bebe6480-9089-11eb-9eec-754f837f5dd7.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112823553-ba924700-9089-11eb-9959-49ec22fc256c.png" width="250"  title="Amiibo DB1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112823565-be25ce00-9089-11eb-9866-777c57d18b19.png" width="250"  title="Amiibo DB2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112823567-bebe6480-9089-11eb-9eec-754f837f5dd7.png" width="250"  title="Amiibo DB3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -133,9 +133,9 @@ Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/docu
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49713385/112800514-07692400-9070-11eb-8e8b-7c96645c8f64.png" width="250"  title="GHFollowers1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49713385/112800526-0c2dd800-9070-11eb-982d-9569d7e59394.png" width="250"  title="GHFollowers2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49713385/112800519-0afcab00-9070-11eb-9e6e-52cd911c9d5f.png" width="250"  title="GHFollowers3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112800514-07692400-9070-11eb-8e8b-7c96645c8f64.png" width="250"  title="Mobie1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112800526-0c2dd800-9070-11eb-982d-9569d7e59394.png" width="250"  title="Mobie2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112800519-0afcab00-9070-11eb-9e6e-52cd911c9d5f.png" width="250"  title="Mobie3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -156,9 +156,9 @@ Investix is a iOS app created during the Kelvin Fok's intermediate iOS tutorial 
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49713385/112829446-6f7c3200-9091-11eb-8b10-c57ff4d1a974.png" width="250"  title="GHFollowers1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49713385/112829450-71de8c00-9091-11eb-85aa-86a446c7f8c2.png" width="250"  title="GHFollowers2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49713385/112829457-72772280-9091-11eb-982b-87c76fa9a56b.png" width="250"  title="GHFollowers3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112829446-6f7c3200-9091-11eb-8b10-c57ff4d1a974.png" width="250"  title="Investix1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112829450-71de8c00-9091-11eb-85aa-86a446c7f8c2.png" width="250"  title="Investix2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112829457-72772280-9091-11eb-982b-87c76fa9a56b.png" width="250"  title="Investix3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
