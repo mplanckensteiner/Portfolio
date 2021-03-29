@@ -1,7 +1,7 @@
 <a href="mailto:mplanckensteiner@hotmail.com"><img src="https://img.shields.io/badge/Email-Miguel-red.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/miguelplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Miguel%20Planckensteiner-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mplanckensteiner/" target="_blank"><img src="https://img.shields.io/badge/instagram-@mplanckensteiner-ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Welcome to my Portfolio! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
+This repository serves as a portfolio of my personal projects available on the App Store or GitHub. Feel free to have a look and if you have any further questions or suggestions just [email me](mailto:mplanckensteiner@hotmail.com), I would be more than happy to come back to you as soon as possible.
 
 # Projects on the App Store
 ## Empanapp
