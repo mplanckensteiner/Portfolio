@@ -5,9 +5,14 @@ This repository serves as a portfolio of my personal projects available on the A
 
 # Projects on the App Store
 ## Empanapp
-GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+Empanapp is a recipe app that shows how to make "Empanadas" a famous dish in Argentina. 
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+* Programmatic UI.
+* Custom UIViews, custom TableViews and custom CollectionViews for user interface.
+* The app use UserDefaults in order to save user settings preference like Dark Mode enabled.
+* It is available in Spanish, English and German.
+* MVC Design pattern.
+* I used a JSON local file made by myself in order to structure the data and emulate a Rest API.
 
 <br>
 <p align="center">
