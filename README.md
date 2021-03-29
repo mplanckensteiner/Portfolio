@@ -60,7 +60,6 @@ Amiibo DB is a iOS App with data from [Amiibo Api](https://www.amiiboapi.com) th
 * MVC architecture.
 * Custom UISearchBar.
 * Support for light & dark mode.
-* Custom UIAlerts.
 * REST API.
 
 <br>
