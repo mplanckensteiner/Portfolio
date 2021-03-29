@@ -6,6 +6,8 @@
 In this repo you can find my portfolio of my personal projects that I was working on. Feel free to have a look. :)
 
 
+# Side Projects :)
+
 ## DotaHeroes
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
@@ -43,5 +45,19 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
   <img src="https://user-images.githubusercontent.com/49713385/112800514-07692400-9070-11eb-8e8b-7c96645c8f64.png" width="250"  title="GHFollowers1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49713385/112800526-0c2dd800-9070-11eb-982d-9569d7e59394.png" width="250"  title="GHFollowers2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49713385/112800519-0afcab00-9070-11eb-9e6e-52cd911c9d5f.png" width="250"  title="GHFollowers3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+
+## Firebase ToDo
+GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+
+Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112802528-937c4b00-9072-11eb-9d0d-be8ac4bf5675.png" width="250"  title="FirebaseToDo1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112802537-95460e80-9072-11eb-9852-4b6fa8c1a364.png" width="250"  title="FirebaseToDo2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112802541-95dea500-9072-11eb-9e38-a52672a867e4.png" width="250"  title="FirebaseToDo3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
