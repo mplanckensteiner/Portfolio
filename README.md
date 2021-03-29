@@ -104,4 +104,4 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 
 
-#### Thanks for Reading
+### Thanks for reading
