@@ -12,11 +12,25 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49713385/112805902-7d708980-9076-11eb-934e-c398d6330012.png" width="250"  title="DotaHeroes1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49713385/112805922-819ca700-9076-11eb-8e91-5bf82f2d9ad6.png" width="250"  title="DotaHeroes2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/49713385/112805925-83666a80-9076-11eb-90e8-c0558ed80abe.png" width="250"  title="DotaHeroes3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112805902-7d708980-9076-11eb-934e-c398d6330012.png" width="250"  title="Empanapp1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112805922-819ca700-9076-11eb-8e91-5bf82f2d9ad6.png" width="250"  title="Empanapp2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112805925-83666a80-9076-11eb-90e8-c0558ed80abe.png" width="250"  title="Empanapp3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
+### Tea Time
+GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+
+Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49713385/112807579-5d41ca00-9078-11eb-97b0-48cb36384063.png" width="250"  title="TeaTime1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49713385/112807599-616de780-9078-11eb-85ad-fba6e0c60856.png" width="250"  title="TeaTime2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49713385/112807608-629f1480-9078-11eb-905e-ee5ec52052ed.png" width="250"  title="TeaTime3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
 
 ## Available on GitHub
 
