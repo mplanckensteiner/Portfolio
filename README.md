@@ -98,9 +98,14 @@ GHFollowers is a take home project iOS app created during the Sean Allen's inter
 </p>
 
 ## Mobie
-GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/documentation/api) using REST API built with Swift UI. 
+
+* SwiftUI.
+* MVVM architecture.
+* Custom UISearchBar.
+* REST API.
+
 
 <br>
 <p align="center">
