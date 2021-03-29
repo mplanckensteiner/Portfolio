@@ -143,18 +143,16 @@ Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/docu
 </p>
 
 ## Investix
-Investix is a iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+Investix is a iOS app created during the Kelvin Fok's intermediate iOS tutorial ['iOS 14 & Swift 5: Financial App with Stock APIs'](https://www.udemy.com/course/ios-14-swift-5-financial-app-with-stock-apis-unit-tests/). 
 
-* Programmatic UI (No Storyboards).
+* UIKit (Storyboards).
 * MVC architecture.
-* No libraries used.
-* Support for light & dark mode. 
-* Custom UIAlerts.
-* UserDefaults for saving favorite users.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* REST API.
+* Reusable code using extensions & protocols.
+* Reactive programming via Combine framework.
+* Financial data via Stock APIs on [Alpha Vantage](https://www.alphavantage.co).
+* Investment concepts like Dollar Cost Averaging.
+* Parse complex JSON data.
+* REST API calls with API key.
 
 <br>
 <p align="center">
