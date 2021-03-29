@@ -5,7 +5,7 @@ In this repo you can find my portfolio of my personal projects that I was workin
 
 # Personal Projects on the App Store
 
-### Empanapp
+## Empanapp
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
@@ -22,7 +22,7 @@ Using the GitHub API, it is built 100% with programmatic UI without storyboards.
 </p>
 
 
-### Tea Time
+## Tea Time
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
