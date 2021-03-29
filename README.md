@@ -7,11 +7,13 @@ This repository serves as a portfolio of my personal projects available on the A
 ## Empanapp
 Empanapp is a recipe app that shows how to make "Empanadas" a famous dish in Argentina. 
 
-* Programmatic UI.
+* Programmatic UI (No Storyboards).
 * Custom UIViews, custom TableViews and custom CollectionViews for user interface.
 * The app use UserDefaults in order to save user settings preference like Dark Mode enabled.
 * It is available in Spanish, English and German.
 * MVC Design pattern.
+* Support for light & dark mode.
+* Custom UIAlerts.
 * I used a JSON local file made by myself in order to structure the data and emulate a Rest API.
 
 <br>
@@ -49,9 +51,15 @@ Tea Time helps the user to calculate the time to brew the perfect cup of tea.
 # Projects on GitHub
 
 ## DotaHeroes
-GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
+Dota Heroes list made with SwiftUI 2.0 (MVVM), for request REST API is implemented with URLSession.
 
-Using the GitHub API, it is built 100% with programmatic UI without storyboards. It displays the followers of an user, allowing to save favorites and visit the profile website of selected users.
+* SwiftUI 2.0.
+* MVVM Design pattern.
+* Custom UISearchBar.
+* REST API.
+* Custom Filter
+* Swift Package Dependecy.
+
 
 <br>
 <p align="center">
