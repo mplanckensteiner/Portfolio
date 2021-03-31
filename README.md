@@ -11,7 +11,7 @@ Empanapp is a recipe app that shows how to make "Empanadas" a famous dish in Arg
 * Custom UIViews, custom TableViews and custom CollectionViews for user interface.
 * The app use UserDefaults in order to save user settings preference like Dark Mode enabled.
 * It is available in Spanish, English and German.
-* MVC Design pattern.
+* MVC Design Pattern.
 * Support for light & dark mode.
 * Custom UIAlerts.
 * I used a JSON local file made by myself in order to structure the data and emulate a Rest API.
@@ -57,7 +57,7 @@ Amiibo DB is a iOS App with data from [Amiibo Api](https://www.amiiboapi.com) th
 * Custom UIViews, custom TableViews and custom CollectionViews for user interface.
 * Widgets
 * The app use UserDefaults in order to save the amiibo collection.
-* MVC architecture.
+* MVC Design Pattern.
 * Custom UISearchBar.
 * Support for light & dark mode.
 * REST API.
@@ -77,7 +77,7 @@ Amiibo DB is a iOS App with data from [Amiibo Api](https://www.amiiboapi.com) th
 Dota Heroes list made with SwiftUI 2.0 (MVVM), for request REST API is implemented with URLSession.
 
 * SwiftUI 2.0.
-* MVVM architecture.
+* MVVM Design Pattern.
 * Custom UISearchBar.
 * REST API.
 * Custom Filter
@@ -99,7 +99,7 @@ Dota Heroes list made with SwiftUI 2.0 (MVVM), for request REST API is implement
 GHFollowers is a take home project iOS app created during the Sean Allen's intermediate iOS tutorial ['Take Home Project'](https://seanallen.teachable.com/courses/enrolled/681906). 
 
 * Programmatic UI (No Storyboards).
-* MVC architecture.
+* MVC Design Pattern.
 * No libraries used.
 * Support for light & dark mode. 
 * Custom UIAlerts.
@@ -125,7 +125,7 @@ GHFollowers is a take home project iOS app created during the Sean Allen's inter
 Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/documentation/api) using REST API built with Swift UI. 
 
 * SwiftUI.
-* MVVM architecture.
+* MVVM Design Pattern.
 * Custom UISearchBar.
 * REST API.
 
@@ -145,7 +145,7 @@ Movie App with data from ['The Movie Data Base'](https://www.themoviedb.org/docu
 
 WeatherColor is a iOS App with data from [Open Weather Map](https://openweathermap.org) that changes the color background based on current weather condition of the location selected or the user current location.
 
-* MVC architecture.
+* MVC Design Pattern.
 * Alamofire 5 Response Decodable.
 * CLLocationManager authorization status.
 * Cocoapods.
@@ -168,7 +168,7 @@ WeatherColor is a iOS App with data from [Open Weather Map](https://openweatherm
 Investix is a iOS app created during the Kelvin Fok's intermediate iOS tutorial ['iOS 14 & Swift 5: Financial App with Stock APIs'](https://www.udemy.com/course/ios-14-swift-5-financial-app-with-stock-apis-unit-tests/). 
 
 * UIKit (Storyboards).
-* MVC architecture.
+* MVC Design Pattern.
 * Reusable code using extensions & protocols.
 * Reactive programming via Combine framework.
 * Financial data via Stock APIs on [Alpha Vantage](https://www.alphavantage.co).
@@ -191,7 +191,7 @@ Investix is a iOS app created during the Kelvin Fok's intermediate iOS tutorial 
 Firebase ToDo is a iOS app created during the Peter Friese's intermediate iOS tutorial ['Sign in with Apple using SwiftUI and Firebase'](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part3/). 
 
 * SwiftUI.
-* MVVM architecture.
+* MVVM Design Pattern.
 * Firebase.
 * Sign in with Apple.
 * Firebase AuthenticationServices
